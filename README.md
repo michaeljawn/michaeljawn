@@ -21,3 +21,7 @@ I'm a third-year Information Technology student at the University of Central Flo
 <img align="left" alt="codespaces" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"/>
 <br />
 
+#
+
+📖 *"Whatever your hand finds to do, do it with all your might"*
+— *Ecclesiastes 9:10*
