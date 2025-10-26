@@ -1,7 +1,7 @@
 # ♘ Michael John
 **`Always Learning`**
 
-I'm a fourth-year Information Technology student at the University of Central Florida with a strong passion for programming, data analytics, artificial intelligence, machine learning, and finance. I enjoy working on and solving complex real-life problems through code. I'm experienced with data structures and algorithms, and I love working on projects that challenge me to learn and grow, whether it's through personal experiments, academic work, or collaborative development.
+I'm a fourth-year Information Technology student at the University of Central Florida with a strong passion for programming, data analytics, artificial intelligence, machine learning, and finance. I enjoy working on and solving complex real-life problems through code. I'm experienced with data structures, algorithms, and databases, and I love working on projects that challenge me to learn and grow, whether it's through personal experiments, academic work, or collaborative development.
 
 #
 
