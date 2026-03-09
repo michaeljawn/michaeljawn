@@ -3,7 +3,7 @@
 
 I'm a fourth-year Information Technology student at the University of Central Florida with a strong passion for programming, data analytics, artificial intelligence, machine learning, and finance. I enjoy working on and solving complex real-life problems through code. I'm experienced with data structures, algorithms, and databases, and I love working on projects that challenge me to learn and grow, whether it's through personal experiments, academic work, or collaborative development.
 
-#
+---
 
 ### 💻 Languages and Tools
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -23,7 +23,7 @@ I'm a fourth-year Information Technology student at the University of Central Fl
 <img align="left" alt="codespaces" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"/>
 <br />
 
-#
+---
 
-📖 *"Whatever your hand finds to do, do it with all your might"*
+## 📖 *"Whatever your hand finds to do, do it with all your might"*
 — *Ecclesiastes 9:10*
