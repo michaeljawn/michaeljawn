@@ -25,5 +25,5 @@ I'm a fourth-year Information Technology student at the University of Central Fl
 
 *
 
-### 📖 *"Whatever your hand finds to do, do it with all your might"*
+📖 *"Whatever your hand finds to do, do it with all your might"*
 — *Ecclesiastes 9:10*
