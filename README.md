@@ -5,7 +5,7 @@ AI/ML Engineer with a strong passion for artificial intelligence, machine learni
  
 #
  
-### 🛠️ Languages and Tools
+### Languages and Tools
  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,5 +31,5 @@ AI/ML Engineer with a strong passion for artificial intelligence, machine learni
  
 #
  
-📖 *"Whatever your hand finds to do, do it with all your might"*
+*"Whatever your hand finds to do, do it with all your might"*
 — *Ecclesiastes 9:10*
