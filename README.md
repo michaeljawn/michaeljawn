@@ -1,5 +1,5 @@
 # ♘ Michael John
-**`Always Learning`**
+## **`Always Learning`**
  
 AI/ML Engineer with a strong passion for artificial intelligence, machine learning, data analytics, and software development. I enjoy solving complex real-world problems through code and data-driven decision-making. My experience spans machine learning, programming, database systems, data structures, and algorithms, and I love working on projects that challenge me to learn, grow, and create meaningful impact. Whether through professional work, personal experimentation, or collaborative development, I'm always exploring new ways to turn data into insights and ideas into solutions.
  
